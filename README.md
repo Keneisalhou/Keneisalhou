@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keneisalhou Tseikha</h1>
+<h1 align="center">Hello, Keneisalhou Tseikha here</h1>
 
 <!-- Dynamic Typing Effect -->
 <p align="center">
@@ -13,7 +13,7 @@
       <h3>🧑‍💻 About Me</h3>
       <ul>
         <li>🎓 Currently pursuing a <b>B.Tech in Artificial Intelligence & Machine Learning</b>.</li>
-        <li>🛠️ I have a strong passion for building things from scratch and solving complex problems.</li>
+        <li>🛠️ I have a strong passion for building things and solving problems.</li>
         <li>🧠 Actively exploring architecture in <b>Machine Learning</b>, <b>Deep Learning</b>, and <b>NLP</b>.</li>
         <li>🌱 Always learning and looking for new ways to implement AI solutions.</li>
       </ul>
@@ -45,8 +45,8 @@
 
 <p align="center">
   <!-- Automatically pulls live data from your specific repositories -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/LousLab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=LousLab&theme=radical&bg_color=0D1117&text_color=c9d1d9&border_color=30363d" alt="LousLab Project" />
+  <a href="https://github.com/Keneisalhou/LousLab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keneisalhou&repo=LousLab&theme=radical&bg_color=0D1117&text_color=c9d1d9&border_color=30363d" alt="LousLab Project" />
   </a>
 </p>
 
