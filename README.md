@@ -3,7 +3,7 @@
   <img src="https://media.tenor.com/fM9RIfiLp-wAAAAi/pixel-ghost.gif" width="50" alt="Animated Pixel Emoji" />
 </div>
 
-<h1 align="center">What's Good, I'm Keneisalhou</h1>
+<h1 align="center">What's Good, I'm Keneisalhou Tseikha a.k.a Kenei</h1>
 
 <!-- Dynamic Typing Effect -->
 <p align="center">
