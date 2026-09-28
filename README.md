@@ -7,7 +7,7 @@
 
 <!-- Dynamic Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=B.Tech+in+AI+%26+ML;I+like+to+build+things;NLP,+Diffusion+Models+%26+CLIP;Deep+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=750&color=2196F3&center=true&vCenter=true&width=500&lines=B.Tech+in+AI+%26+ML;Man+I'm+Hungry;Guess+the+next+upcoming+word;Banana;Guess+the+next+one;Potato" alt="Typing SVG" />
 </p>
 
 ---
